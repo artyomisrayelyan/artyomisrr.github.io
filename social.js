@@ -1,6 +1,6 @@
 let users = [
     {
-        name:"Arman Avetisyan",
+        name:"Arman",
         country:"Armenia",
         age:25,
         gender:"male",
@@ -20,14 +20,14 @@ let users = [
     },
 
     {
-        name:"Natasha Antonovna",
+        name:"Natasha",
         country:"Russia",
         age:45,
         gender:"female",
     },
 
     {
-        name:"Artyom Israyelyan",
+        name:"Artyom",
         country:"Armenia",
         age:12,
         gender:"male",
@@ -47,13 +47,13 @@ let users = [
     },
 
     {
-        name:"Yulia Simonovna",
+        name:"Yulia",
         country:"Russia",
         age:45,
         gender:"female",
     },
     {
-        name:"Arthur Israyelyan",
+        name:"Arthur",
         country:"Armenia",
         age:19,
         gender:"male",
